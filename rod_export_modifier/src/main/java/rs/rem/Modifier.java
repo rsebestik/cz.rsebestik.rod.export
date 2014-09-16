@@ -53,6 +53,11 @@ import rs.rem.util.StringHelper;
 import rs.rem.util.TidyHelper;
 import rs.rem.util.XmlHelper;
 
+/**
+ * 
+ * @author rsebestik
+ *
+ */
 public class Modifier {
 
 	private static final Logger log = LogManager.getLogger(Modifier.class);
